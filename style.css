@@ -8,3 +8,10 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.footer.menu {
+  box-shadow: none;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
